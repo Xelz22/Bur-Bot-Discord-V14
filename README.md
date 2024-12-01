@@ -1,1 +1,3 @@
-# Bur-Bot-Discord-V14
+# Burç-Bot-Discord-V14
+
+MSİ DEV İÇİN YAPILMIŞTIR.
