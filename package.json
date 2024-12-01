@@ -1,0 +1,22 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "Discord Burç Botu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "@discordjs/rest": "^1.7.1",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0",
+    "discord.js": "^14.11.0",
+    "v": "^0.3.0"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "author": "nagatso",
+  "license": "MIT"
+}
